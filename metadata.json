@@ -1,0 +1,5 @@
+{
+  "name": "GIA HUY | CHUYỂN VĂN BẢN THÀNH GIỌNG NÓI",
+  "description": "Một phòng thu Chuyển văn bản thành giọng nói (TTS) được hỗ trợ bởi AI để tạo giọng nói đa ngôn ngữ với các tùy chọn về giọng nói, tốc độ, cao độ, và hỗ trợ SSML, được vận hành bởi Google Gemini.",
+  "requestFramePermissions": []
+}
